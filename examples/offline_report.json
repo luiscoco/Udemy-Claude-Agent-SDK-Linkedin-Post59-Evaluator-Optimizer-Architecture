@@ -1,0 +1,17 @@
+{
+  "lesson": 58,
+  "application": "Evaluator and Optimizer",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "candidate": "A ResultMessage with is_error=False indicates SDK completion; validate the answer separately.",
+    "grades": [
+      {
+        "score": 5,
+        "feedback": "Completion and answer validity are distinguished."
+      }
+    ],
+    "accepted": true
+  },
+  "measured_cost_usd": null
+}

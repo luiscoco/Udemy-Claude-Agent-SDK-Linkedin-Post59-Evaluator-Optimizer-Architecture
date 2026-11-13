@@ -1,0 +1,5 @@
+{
+  "task": "Explain SDK run completion",
+  "threshold": 4,
+  "max_attempts": 2
+}

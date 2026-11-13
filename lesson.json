@@ -1,0 +1,16 @@
+{
+  "lesson": 58,
+  "title": "Evaluator-Optimizer Architecture",
+  "application": "Evaluator and Optimizer",
+  "purpose": "Keep evaluator and optimizer roles separate, validate scores and stop on acceptance or a fixed attempt budget.",
+  "exercise": "Give the evaluator a low score and verify each optimization receives the actual previous candidate and feedback.",
+  "source_topics": [
+    "00-Arquitectura Evaluador-Optimizador Iterativa.png",
+    "01-Two-Agents-One-Quality-Loop.png",
+    "02-Define-Evaluation-Criteria.png",
+    "03-Build-the-Evaluator.png",
+    "04-Run-the-Optimization-Loop.png",
+    "05-Calibrate-and-Avoid-Pitfalls.png",
+    "06-Use-Cases-and-Takeaways.png"
+  ]
+}
